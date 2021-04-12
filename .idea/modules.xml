@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FinctechMovsApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FinctechMovsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShowCard/FinctechMovsApp.ShowCard.iml" filepath="$PROJECT_DIR$/.idea/modules/ShowCard/FinctechMovsApp.ShowCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FinctechMovsApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FinctechMovsApp.app.iml" />
+    </modules>
+  </component>
+</project>

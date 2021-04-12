@@ -1,0 +1,3 @@
+include ':ShowCard'
+include ':app'
+rootProject.name = "FinctechMovsApp"
