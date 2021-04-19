@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_default">Default</string>
+    <string name="hidden_card_number">1234567812345601</string>
+    <string name="card_number">5601</string>
+</resources>
